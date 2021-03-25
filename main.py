@@ -6,7 +6,7 @@ pygame.mixer.init()
 # WINDOW
 WIDTH, HEIGHT = 900, 500
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Star Blaster")
+pygame.display.set_caption("Space Fight")
 
 # COLOR VALUES
 WHITE = (255, 255, 255)
